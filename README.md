@@ -1,9 +1,14 @@
 # Krishs-MicroPad
 
-​Project Features
+​
+Project Features
+
 ​Microcontroller: XIAO ESP32-C3
+
 ​Display: OLED display connected via I2C (SDA/SCL)
+
 ​Controls: 6 mechanical switches for custom macros
+
 ​Volume Control: Rotary encoder with an integrated mute button
 
 ​Schematic
