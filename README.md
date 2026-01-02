@@ -18,3 +18,6 @@ Project Features
 The necessary parts for Krish's MicroPad is included with the price in the PDF.
 
 I've also added a specific Ender 3 V3 SE 3D printer to fabricate the bespoke ergonomic chassis and prototype future hardware revisions. After this project is complete, the printer will be made available as a shared resource for other students at my school. This will provide an opportunity for a local maker community to establish itself and allow other students to ship their own hardware projects.
+
+
+Krish's MacroPad is an open-source educational project designed to demonstrate the integration of PCB design *Kicad and mechanical engineering *TinkerCAD.
