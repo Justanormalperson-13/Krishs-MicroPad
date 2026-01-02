@@ -14,6 +14,11 @@ Project Features
 ​Schematic
 <img width="1487" height="766" alt="Screenshot 2025-12-31 144249" src="https://github.com/user-attachments/assets/4a75dd96-252c-448e-9192-3679057d82de" />
 
+3D case with PCB inside
+<img width="1075" height="664" alt="Screenshot 2026-01-01 220439" src="https://github.com/user-attachments/assets/b4da1e2e-2b7e-4e38-86b1-b01bdeffdc6b" />
+
+PCB 3D render with PCB editor open on the left side
+<img width="1920" height="1080" alt="Screenshot 2026-01-01 165221" src="https://github.com/user-attachments/assets/794d49b1-bcf3-43db-ad32-03cabd0d8d1b" />
 
 The necessary parts for Krish's MicroPad is included with the price in the PDF and the CSV file
 
